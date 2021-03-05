@@ -1,0 +1,2 @@
+C:\Users\270025286\OneDrive - UP Education\Desktop\VS2019\homework\classWork\classwork-2\largestNumber\largestNumber\Debug\largestNumber.exe
+C:\Users\270025286\OneDrive - UP Education\Desktop\VS2019\homework\classWork\classwork-2\largestNumber\largestNumber\Debug\largestNumber.pdb
