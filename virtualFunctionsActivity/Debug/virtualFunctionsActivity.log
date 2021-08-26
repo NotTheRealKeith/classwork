@@ -1,0 +1,4 @@
+﻿  virtualFunctionsActivity.cpp
+C:\Users\Keith Baloyo\OneDrive\Documents\YoobeeFolder\cs105 class stuff\virtualFunctionsActivity\virtualFunctionsActivity.cpp(34,11): warning C4129: 's': unrecognized character escape sequence
+C:\Users\Keith Baloyo\OneDrive\Documents\YoobeeFolder\cs105 class stuff\virtualFunctionsActivity\virtualFunctionsActivity.cpp(54,11): warning C4129: 's': unrecognized character escape sequence
+  virtualFunctionsActivity.vcxproj -> C:\Users\Keith Baloyo\OneDrive\Documents\YoobeeFolder\cs105 class stuff\virtualFunctionsActivity\Debug\virtualFunctionsActivity.exe
