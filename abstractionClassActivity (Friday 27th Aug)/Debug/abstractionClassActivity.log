@@ -1,0 +1,4 @@
+﻿  abstractionClassActivity.cpp
+C:\Users\Keith Baloyo\OneDrive\Documents\YoobeeFolder\cs105 class stuff\abstractionClassActivity\abstractionClassActivity.cpp(28,17): warning C4129: 'i': unrecognized character escape sequence
+C:\Users\Keith Baloyo\OneDrive\Documents\YoobeeFolder\cs105 class stuff\abstractionClassActivity\abstractionClassActivity.cpp(32,17): warning C4129: 'i': unrecognized character escape sequence
+  abstractionClassActivity.vcxproj -> C:\Users\Keith Baloyo\OneDrive\Documents\YoobeeFolder\cs105 class stuff\abstractionClassActivity\Debug\abstractionClassActivity.exe
